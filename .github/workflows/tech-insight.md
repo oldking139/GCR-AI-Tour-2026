@@ -9,6 +9,7 @@ tools:
   bash: [":*"]
   edit:
 engine: copilot
+timeout-minutes: 45
 network:
   allowed:
     - defaults
