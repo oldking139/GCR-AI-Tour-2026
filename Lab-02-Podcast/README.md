@@ -39,7 +39,7 @@ WorkflowBuilder 顺序工作流：
 
 1. 克隆仓库：
 ```bash
-git clone [https://github.com/kinfey/podcast_workflow.git](https://github.com/haxudev/GCR-AI-Tour-2026.git)
+git clone https://github.com/haxudev/GCR-AI-Tour-2026.git
 cd Lab-02-Podcast
 ```
 
